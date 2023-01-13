@@ -1,5 +1,7 @@
 # TranslationApp
 
+ℹ️ Check the online IDE: https://codesandbox.io/s/ng-translator-forked-2r9kr4?file=/src/app/app.component.html
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
